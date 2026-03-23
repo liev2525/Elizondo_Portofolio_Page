@@ -1,3 +1,5 @@
+
+
 # Hi there, I'm Elizabeth Elizondo! 👋
 
 ## About Me 🚀
@@ -36,7 +38,7 @@ Data Engineer operating in a Business Systems Analyst and Data Systems Analyst c
 
 ## Work History
 
-### Apexon (Remote)
+#### Apexon (Remote)
 Data Engineer II | July 2022-Present
 -	Led BRD/FRD analysis for GAML/KYC regulatory platforms, aligning AML directives, regulatory compliance, and enterprise data governance across multiple lines of business.
 -	Developed technical documentation and source-to-target mapping specifications to support audit readiness, traceability, and regulatory reporting.
@@ -44,14 +46,14 @@ Data Engineer II | July 2022-Present
 -	Validated source-to-target transformations in Databricks (DEV/SIT/PAT), applying medallion architecture principles to maintain data integrity within cloud data platforms.
 -	Served as cross-functional liaison between business, compliance, and engineering teams, supporting Agile delivery through JIRA and Confluence.
   
-### Northside Independent School District (San Antonio, TX)
+#### Northside Independent School District (San Antonio, TX)
 Instructional Technology Coach | October 2020-June 2022
 Instructor | September 2015-December 2018
 -	Led technology integration initiatives and professional development for educators and adult-learning staff, improving instructional delivery and digital adoption.
 -	Designed and delivered online training and coached faculty on innovative tools and practices.
 -	Built and maintained a departmental web platform supporting training and communication.
   
-### Education Service Center 20 (San Antonio, TX)
+#### Education Service Center 20 (San Antonio, TX)
 Grant Management Education Specialist | January 2019-October 2020
 -	Provided regional leadership and technical guidance to consortium service providers, supporting program design, implementation, data analysis, and staff development initiatives.
 -	Ensured compliance with state and federal data regulations while identifying performance gaps and delivering data-driven insights and visualizations to inform stakeholders and track progress.
