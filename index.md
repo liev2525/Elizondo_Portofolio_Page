@@ -1,6 +1,3 @@
-Data Analyst | Data Engineering & Enterprise Data Specialist | Databricks Certified | SQL | Data Quality | Financial & Regulatory Systems
-
-
 # Hi there, I'm Elizabeth Elizondo! 👋
 
 ## About Me 🚀
