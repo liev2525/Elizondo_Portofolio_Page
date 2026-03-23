@@ -5,11 +5,7 @@ Data Analyst | Data Engineering & Enterprise Data Specialist | Databricks Certif
 
 ## About Me 🚀
 
-I am a data-focused Business Systems Analyst with hands-on experience working across analytics, data validation, and cross-functional technical initiatives. My work centers on translating business requirements into structured data solutions, improving data quality, and supporting informed decision-making through SQL-driven analysis and workflow optimization.
-
-My background includes working in regulated enterprise environments where I partner with technical teams and subject matter experts to analyze source-to-target mappings, validate datasets, investigate discrepancies, and support system enhancements. I’ve developed strong proficiency in SQL, Python, and PySpark through applied projects and formal training, including certification in Databricks Data Engineering.
-
-Beyond analysis, I enjoy working with real-world datasets—profiling messy data, transforming structures, validating metrics, and designing reporting-ready outputs. I approach problems methodically, with a focus on accuracy, clarity, and scalability.
+Data Engineer operating in a Business Systems Analyst and Data Systems Analyst capacity across enterprise banking and regulatory platforms. Specialized in source-to-target mapping, data lineage, system impact analysis, and end-to-end data flow validation across complex upstream and downstream ecosystems. Experienced in requirements elicitation, functional specification development, interface analysis, and cross-system dependency mapping to support enterprise data integration initiatives. Hands-on expertise with Databricks, Spark SQL, Oracle SQL Developer, and cloud-based tooling to troubleshoot and optimize ETL pipelines across SIT, PAT, and DEV environments. Strong background in data reconciliation, data quality frameworks, control validation, and regulatory reporting support within risk and compliance domains. Proven ability to translate regulatory, business, and technical requirements into structured documentation, traceability matrices, scalable data models, and governance-aligned system solutions that enhance data integrity, observability, and operational resilience.
 
 - 🌱 Currently learning: Machine Learning and AI
 - 🔭 Working on: I’m currently working on Global Anti-Money Laundering (GAML) Data Staging on Enterprise Microsoft Azure solution to support enterprise data needs by enabling GAML to better address future regulatory and business needs.
