@@ -46,6 +46,7 @@ Data Engineer II | July 2022-Present
   
 #### Northside Independent School District (San Antonio, TX)
 Instructional Technology Coach | October 2020-June 2022
+
 Instructor | September 2015-December 2018
 -	Led technology integration initiatives and professional development for educators and adult-learning staff, improving instructional delivery and digital adoption.
 -	Designed and delivered online training and coached faculty on innovative tools and practices.
