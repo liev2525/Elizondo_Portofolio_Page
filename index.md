@@ -34,8 +34,8 @@ Data Engineer operating in a Business Systems Analyst and Data Systems Analyst c
 
 ## Education 
 
-- Master of Science degree in Information Science | 2023 | Texas A&M International University
-- Bachelor of Science degree in Environmental Science | 2012 | University of Texas at San Antonio
+- Master of Science degree in Information Science 2023 Texas A&M International University
+- Bachelor of Science degree in Environmental Science 2012 University of Texas at San Antonio
 
 ## Work History
 
