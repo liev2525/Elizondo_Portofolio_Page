@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm Elizabeth Elizondo! 👋
+# Elizabeth Elizondo
 
 ## About Me 🚀
 
