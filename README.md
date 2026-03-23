@@ -36,15 +36,29 @@ Beyond analysis, I enjoy working with real-world datasets—profiling messy data
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+## Education 
 
-## Featured Projects 💻
+- Master of Science degree in Information Science | 2023 | Texas A&M International University
+- Bachelor of Science degree in Environmental Science | 2012 | University of Texas at San Antonio
 
-### [Salaries Analysis](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Salaries%20Analysis)
-- Overview: Data Science Job Salaries between 2020-2025, the data was extracted from the Kaggle website, the data was cleaned and standardized utilizing Databrick Medallion Architecture where visualizations were created in Tableau Public.
-- Technology Used: Databricks SQL, Tableau
-- Final Results: [Tableau Link to Dashboard](https://public.tableau.com/views/JobTitle_Salary_v2025_2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## Work History
 
-### [Cave Shippers LLC](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main/Cave%20Shippers%20LLC)
-- Overview: This dataset and analysis were completed as part of a graduate-level capstone project for the master’s program in Information Science 2023. In collaboration with a cohort, I helped to develop a mock company—Cave Shippers LLC—where my responsibility was to conduct an end-to-end analysis of historical performance and future sales potential for shipping containers produced using various material types.  
-- Technology Used: MySQL, Tableau
-- Final Results: [Tableau Link to Dashboard](https://public.tableau.com/views/CaveLLCForecastAnalysis/10YrForecastDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### Apexon (Remote)
+Data Engineer II | July 2022-Present
+-	Led BRD/FRD analysis for GAML/KYC regulatory platforms, aligning AML directives, regulatory compliance, and enterprise data governance across multiple lines of business.
+-	Developed technical documentation and source-to-target mapping specifications to support audit readiness, traceability, and regulatory reporting.
+-	Conducted SQL-driven data quality validation, reconciliation, and root cause analysis across source and target systems to ensure accuracy of critical risk datasets.
+-	Validated source-to-target transformations in Databricks (DEV/SIT/PAT), applying medallion architecture principles to maintain data integrity within cloud data platforms.
+-	Served as cross-functional liaison between business, compliance, and engineering teams, supporting Agile delivery through JIRA and Confluence.
+### Northside Independent School District (San Antonio, TX)
+Instructional Technology Coach | October 2020-June 2022
+Instructor | September 2015-December 2018
+-	Led technology integration initiatives and professional development for educators and adult-learning staff, improving instructional delivery and digital adoption.
+-	Designed and delivered online training and coached faculty on innovative tools and practices.
+-	Built and maintained a departmental web platform supporting training and communication.
+### Education Service Center 20 (San Antonio, TX)
+Grant Management Education Specialist | January 2019-October 2020
+-	Provided regional leadership and technical guidance to consortium service providers, supporting program design, implementation, data analysis, and staff development initiatives.
+-	Ensured compliance with state and federal data regulations while identifying performance gaps and delivering data-driven insights and visualizations to inform stakeholders and track progress.
+
+## Samples of Work 
