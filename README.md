@@ -1,6 +1,5 @@
 # Elizondo_Portofolio_Page
 
-About Me: 
 # Hi there, I'm Elizabeth Elizondo! 👋
 
 ## About Me 🚀
