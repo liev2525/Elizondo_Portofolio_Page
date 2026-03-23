@@ -4,7 +4,7 @@
 
 Data Engineer operating in a Business Systems Analyst and Data Systems Analyst capacity across enterprise banking and regulatory platforms. Specialized in source-to-target mapping, data lineage, system impact analysis, and end-to-end data flow validation across complex upstream and downstream ecosystems. Experienced in requirements elicitation, functional specification development, interface analysis, and cross-system dependency mapping to support enterprise data integration initiatives. Hands-on expertise with Databricks, Spark SQL, Oracle SQL Developer, and cloud-based tooling to troubleshoot and optimize ETL pipelines across SIT, PAT, and DEV environments. Strong background in data reconciliation, data quality frameworks, control validation, and regulatory reporting support within risk and compliance domains. Proven ability to translate regulatory, business, and technical requirements into structured documentation, traceability matrices, scalable data models, and governance-aligned system solutions that enhance data integrity, observability, and operational resilience.
 
-- 🌱 Currently learning: Machine Learning and AI
+- 🌱 Currently learning: Currently deepening my expertise in AWS and Azure cloud ecosystems, with a focus on data pipeline design, storage optimization, and governance. I am also building proficiency in Snowflake, exploring data modeling, query performance, and integration with modern ETL workflows.
 - 🔭 Working on: Contributing to enterprise GAML transformation by modernizing legacy systems into a cloud-based Azure solution.
 Enhancing regulatory compliance, data quality, and performance for evolving financial crime and risk requirements.
 - 🌍 Languages: English, Intermediate Spanish
