@@ -1,7 +1,5 @@
 
 
-# Elizabeth Elizondo
-
 ## About Me 🚀
 
 Data Engineer operating in a Business Systems Analyst and Data Systems Analyst capacity across enterprise banking and regulatory platforms. Specialized in source-to-target mapping, data lineage, system impact analysis, and end-to-end data flow validation across complex upstream and downstream ecosystems. Experienced in requirements elicitation, functional specification development, interface analysis, and cross-system dependency mapping to support enterprise data integration initiatives. Hands-on expertise with Databricks, Spark SQL, Oracle SQL Developer, and cloud-based tooling to troubleshoot and optimize ETL pipelines across SIT, PAT, and DEV environments. Strong background in data reconciliation, data quality frameworks, control validation, and regulatory reporting support within risk and compliance domains. Proven ability to translate regulatory, business, and technical requirements into structured documentation, traceability matrices, scalable data models, and governance-aligned system solutions that enhance data integrity, observability, and operational resilience.
