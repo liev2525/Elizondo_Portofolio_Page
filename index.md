@@ -5,14 +5,15 @@
 
 ## About Me 🚀
 
-Data Engineer operating in a Business Systems Analyst and Data Systems Analyst capacity across enterprise banking and regulatory platforms. Specialized in source-to-target mapping, data lineage, system impact analysis, and end-to-end data flow validation across complex upstream and downstream ecosystems. Experienced in requirements elicitation, functional specification development, interface analysis, and cross-system dependency mapping to support enterprise data integration initiatives. Hands-on expertise with Databricks, Spark SQL, Oracle SQL Developer, and cloud-based tooling to troubleshoot and optimize ETL pipelines across SIT, PAT, and DEV environments. Strong background in data reconciliation, data quality frameworks, control validation, and regulatory reporting support within risk and compliance domains. Proven ability to translate regulatory, business, and technical requirements into structured documentation, traceability matrices, scalable data models, and governance-aligned system solutions that enhance data integrity, observability, and operational resilience.
+Data Engineer operating in a Business Systems Analyst capacity within enterprise banking and regulatory environments. Specialized in source-to-target mapping, data lineage, and end-to-end data flow validation across complex systems. Experienced in requirements gathering, functional documentation, and cross-system impact analysis to support enterprise data integration.
+Hands-on with Databricks, Spark SQL, and Oracle SQL, with a strong focus on data quality, reconciliation, and regulatory reporting. Proven ability to translate business and regulatory needs into scalable, governance-aligned data solutions that improve data integrity and reliability.
 
 - 🌱 Currently learning: Currently deepening my expertise in AWS and Azure cloud ecosystems, with a focus on data pipeline design, storage optimization, and governance. I am also building proficiency in Snowflake, exploring data modeling, query performance, and integration with modern ETL workflows.
 - 🔭 Working on: Contributing to enterprise GAML transformation by modernizing legacy systems into a cloud-based Azure solution.
 Enhancing regulatory compliance, data quality, and performance for evolving financial crime and risk requirements.
 - 🌍 Languages: English, Intermediate Spanish
 - 💡 I'm interested in Data Analysis, Automation, Machine Learning, Agentic AI.
-- 💬 Talk to me about modernizing legacy financial systems into scalable Azure-based data platforms, building and validating ETL pipelines using Databricks, applying medallion architecture (Bronze/Silver/Gold) for data quality and reporting, translating business needs into BRDs, FRDs, and source-to-target mappings, supporting AML/KYC and regulatory compliance (FINCEN, FINTRAC) through data solutions, performing data reconciliation, lineage tracking, and root cause analysis across systems, designing data governance frameworks for enterprise risk and finance alignment, bridging the gap between business stakeholders and engineering teams in Agile environments.
+- 💬 Talk to me about Azure data modernization, Databricks ETL, medallion architecture, AML/KYC compliance, and bridging business + engineering through data solutions.
 - ⚡ Fun fact: I like to garden fruits and vegetables.
 - 📫 How to reach me: linicel25@gmail.com
 
