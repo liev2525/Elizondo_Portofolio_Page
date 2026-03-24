@@ -18,7 +18,7 @@ Enhancing regulatory compliance, data quality, and performance for evolving fina
 - 📫 How to reach me: linicel25@gmail.com
 
 Click below to view samples of my work.
-## [Featured Projects 💻](https://liev2525.github.io/Data-Analysis-Portfolio/)
+### [Featured Projects 💻](https://liev2525.github.io/Data-Analysis-Portfolio/)
 
 ## My Skills 🧠
 
