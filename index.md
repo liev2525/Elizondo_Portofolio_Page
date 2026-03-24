@@ -17,8 +17,8 @@ Enhancing regulatory compliance, data quality, and performance for evolving fina
 - ⚡ Fun fact: I like to garden fruits and vegetables.
 - 📫 How to reach me: linicel25@gmail.com
 
+Click below to view samples of my work.
 ## [Featured Projects 💻](https://liev2525.github.io/Data-Analysis-Portfolio/)
-Click here to view a few samples of my work.
 
 ## My Skills 🧠
 
