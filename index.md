@@ -59,4 +59,4 @@ Grant Management Education Specialist | January 2019-October 2020
 -	Ensured compliance with state and federal data regulations while identifying performance gaps and delivering data-driven insights and visualizations to inform stakeholders and track progress.
 
 ## Featured Projects 💻
-![Data Analysis Portfolio](https://liev2525.github.io/Data-Analysis-Portfolio/)
+![Data Analysis Portfolio](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main)
