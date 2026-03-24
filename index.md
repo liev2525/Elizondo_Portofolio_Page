@@ -37,7 +37,8 @@ Click here to view a few samples of my work.
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## [Certifications](https://credentials.databricks.com/profile/elizabethelizondo197356/wallet)
-Certificates Obtained: Databricks Certified Data Analyst Associate, Databricks Certified Data Engineer Associate
+- Databricks Certified Data Analyst Associate
+- Databricks Certified Data Engineer Associate
 
 ## Education 
 
