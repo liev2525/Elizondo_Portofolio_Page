@@ -58,5 +58,5 @@ Grant Management Education Specialist | January 2019-October 2020
 -	Provided regional leadership and technical guidance to consortium service providers, supporting program design, implementation, data analysis, and staff development initiatives.
 -	Ensured compliance with state and federal data regulations while identifying performance gaps and delivering data-driven insights and visualizations to inform stakeholders and track progress.
 
-## Featured Projects 💻
-![Data Analysis Portfolio](https://github.com/liev2525/Data-Analysis-Portfolio/tree/main)
+## [Featured Projects 💻](https://liev2525.github.io/Data-Analysis-Portfolio/)
+
