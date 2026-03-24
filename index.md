@@ -13,6 +13,8 @@ Enhancing regulatory compliance, data quality, and performance for evolving fina
 - ⚡ Fun fact: I like to garden fruits and vegetables.
 - 📫 How to reach me: linicel25@gmail.com
 
+## [Featured Projects 💻](https://liev2525.github.io/Data-Analysis-Portfolio/)
+
 ## My Skills 🧠
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
@@ -58,5 +60,5 @@ Grant Management Education Specialist | January 2019-October 2020
 -	Provided regional leadership and technical guidance to consortium service providers, supporting program design, implementation, data analysis, and staff development initiatives.
 -	Ensured compliance with state and federal data regulations while identifying performance gaps and delivering data-driven insights and visualizations to inform stakeholders and track progress.
 
-## [Featured Projects 💻](https://liev2525.github.io/Data-Analysis-Portfolio/)
+
 
