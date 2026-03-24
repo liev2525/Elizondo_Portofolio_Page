@@ -1,4 +1,7 @@
 
+## Check out my LinkedIn page!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabethelizondo/)
+
 
 ## About Me 🚀
 
@@ -14,6 +17,7 @@ Enhancing regulatory compliance, data quality, and performance for evolving fina
 - 📫 How to reach me: linicel25@gmail.com
 
 ## [Featured Projects 💻](https://liev2525.github.io/Data-Analysis-Portfolio/)
+Click here to view a few samples of my work.
 
 ## My Skills 🧠
 
@@ -31,6 +35,9 @@ Enhancing regulatory compliance, data quality, and performance for evolving fina
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+## [Certifications](https://credentials.databricks.com/profile/elizabethelizondo197356/wallet)
+Certificates Obtained: Databricks Certified Data Analyst Associate, Databricks Certified Data Engineer Associate
 
 ## Education 
 
