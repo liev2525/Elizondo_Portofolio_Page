@@ -48,8 +48,9 @@ Click below to view samples of my work.
 
 ## Work History
 
-#### Apexon (Remote)
+#### Apexon (Santa Clara, CA - Remote)
 Data Engineer II | July 2022-Present
+Clients: Options Clearing Corporation (OCC), BNY Mellon, Protego Bank, Bread Financial, TD Bank
 -	Led BRD/FRD analysis for GAML/KYC regulatory platforms, aligning AML directives, regulatory compliance, and enterprise data governance across multiple lines of business.
 -	Developed technical documentation and source-to-target mapping specifications to support audit readiness, traceability, and regulatory reporting.
 -	Conducted SQL-driven data quality validation, reconciliation, and root cause analysis across source and target systems to ensure accuracy of critical risk datasets.
