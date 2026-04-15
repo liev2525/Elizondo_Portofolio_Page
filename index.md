@@ -6,7 +6,8 @@
 ## About Me 🚀
 
 Data Engineer operating in a Business Systems Analyst capacity within enterprise banking and regulatory environments. Specialized in source-to-target mapping, data lineage, and end-to-end data flow validation across complex systems. Experienced in requirements gathering, functional documentation, and cross-system impact analysis to support enterprise data integration.
-Hands-on with Databricks, Spark SQL, and Oracle SQL, with a strong focus on data quality, reconciliation, and regulatory reporting. Proven ability to translate business and regulatory needs into scalable, governance-aligned data solutions that improve data integrity and reliability.
+
+Hands-on experience building containerized data pipelines using Docker and Ubuntu, integrated with GitLab CI/CD for automated deployment and validation workflows. Experienced with Databricks, Spark SQL, and Oracle SQL, delivering data pipelines with a strong emphasis on data quality, reconciliation, and regulatory reporting. Proven ability to translate business and regulatory requirements into scalable, governance-aligned data solutions that improve data integrity and operational reliability.
 
 - 🌱 Currently learning: Currently deepening my expertise in AWS and Azure cloud ecosystems, with a focus on data pipeline design, storage optimization, and governance. I am also building proficiency in Snowflake, exploring data modeling, query performance, and integration with modern ETL workflows.
 - 🔭 Working on: Contributing to enterprise GAML transformation by modernizing legacy systems into a cloud-based Azure solution.
@@ -49,26 +50,26 @@ Click below to view samples of my work.
 ## Work History
 
 #### Apexon (Santa Clara, CA - Remote)
-Data Engineer II | July 2022-Present
-Clients: Options Clearing Corporation (OCC), BNY Mellon, Protego Bank, Bread Financial, TD Bank
--	Led BRD/FRD analysis for GAML/KYC regulatory platforms, aligning AML directives, regulatory compliance, and enterprise data governance across multiple lines of business.
--	Developed technical documentation and source-to-target mapping specifications to support audit readiness, traceability, and regulatory reporting.
--	Conducted SQL-driven data quality validation, reconciliation, and root cause analysis across source and target systems to ensure accuracy of critical risk datasets.
--	Validated source-to-target transformations in Databricks (DEV/SIT/PAT), applying medallion architecture principles to maintain data integrity within cloud data platforms.
--	Served as cross-functional liaison between business, compliance, and engineering teams, supporting Agile delivery through JIRA and Confluence.
+Data Engineer II | July 2022-April 2026
+##### Clients: Options Clearing Corporation (OCC), BNY Mellon, Protego Bank, Bread Financial, TD Bank
+- Led requirements elicitation for GAML/KYC initiatives, translating regulatory and business needs into BRDs, FRDs, and traceability matrices, delivering audit-ready documentation and aligned technical specifications for cloud migration to Azure-based platforms.
+- Designed UML diagrams (sequence, activity, and data flows) to model mini-market and cross-system processes, producing system blueprints that enabled impact analysis, dependency mapping, and solution design across legacy and cloud environments.
+- Developed and validated source-to-target (S2T) mappings across Databricks and Oracle (DEV/SIT/PAT), implementing Medallion Architecture (Bronze/Silver/Gold) to build lineage-tracked, auditable data pipelines supporting AML/KYC reporting on Azure.
+- Engineered SQL and PySpark-based validation frameworks to perform data quality checks, reconciliation, and end-to-end lineage validation, generating data quality reports and issue logs that improved accuracy and accelerated defect resolution.
+- Acted as a cross-functional liaison between business, compliance, and engineering teams, managing Agile delivery (Scrum/Kanban) via JIRA and Confluence, resulting in prioritized backlogs, refined user stories, and successful delivery of regulatory data solutions.
+- Contributed to blockchain strategy initiatives by defining data models, transaction flows, and governance considerations, delivering a conceptual framework used to assess feasibility of distributed ledger integration within enterprise data architecture.
   
 #### Northside Independent School District (San Antonio, TX)
-Instructional Technology Coach | October 2020-June 2022
-
-Instructor | September 2015-December 2018
--	Led technology integration initiatives and professional development for educators and adult-learning staff, improving instructional delivery and digital adoption.
--	Designed and delivered online training and coached faculty on innovative tools and practices.
--	Built and maintained a departmental web platform supporting training and communication.
+##### Instructional Technology Coach | October 2020-June 2022
+##### Instructor | September 2015-December 2018
+- Led technology integration initiatives for adult education programs, gathering requirements and implementing digital solutions that improved instructional delivery, increased platform adoption, and standardized data-informed teaching practices.
+- Designed and delivered scalable online training programs, developing structured curricula and coaching faculty on instructional technologies, resulting in increased utilization of digital tools and measurable improvements in engagement and delivery consistency.
+- Guided the development and maintenance of public-facing website platforms for teachers and students, supporting the creation of centralized resources that improved communication, streamlined access to training materials, and enhanced overall instructional coordination.
   
 #### Education Service Center 20 (San Antonio, TX)
 Grant Management Education Specialist | January 2019-October 2020
--	Provided regional leadership and technical guidance to consortium service providers, supporting program design, implementation, data analysis, and staff development initiatives.
--	Ensured compliance with state and federal data regulations while identifying performance gaps and delivering data-driven insights and visualizations to inform stakeholders and track progress.
+- Provided regional leadership and technical guidance to consortium service providers, supporting program design and implementation while standardizing data collection, reporting processes, and staff development initiatives to improve program effectiveness and consistency across sites.
+- Ensured compliance with state and federal data regulations by implementing data validation and reporting practices, delivering performance dashboards and analytical insights that identified gaps, informed stakeholder decision-making, and enabled ongoing program monitoring and improvement.
 
 
 
