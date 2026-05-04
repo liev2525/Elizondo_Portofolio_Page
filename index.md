@@ -1,6 +1,5 @@
 
-## Elizabeth Elizondo
-### Data Engineer | Business Systems Analyst | AML/KYC & Regulatory Platforms
+## Work Portfolio
 
 ## About Me 🚀
 
@@ -17,13 +16,13 @@ Enhancing regulatory compliance, data quality, and performance for evolving fina
 - ⚡ Fun fact: I like to garden fruits and vegetables.
 - 📫 How to reach me: linicel25@gmail.com
 
-### Check out my LinkedIn page!
+#### Check out my LinkedIn page!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabethelizondo/)
 
-### Click below to view samples of my work.
+## Portfolio Projects
 ### [Featured Projects 💻](https://liev2525.github.io/Data-Analysis-Portfolio/)
 
-## My Skills 🧠
+## My Skills 
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white)
