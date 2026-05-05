@@ -21,8 +21,8 @@ Enhancing regulatory compliance, data quality, and performance for evolving fina
 
 ## Portfolio Projects
 
-### [Data Analysis Projects 💻](https://liev2525.github.io/Data-Analysis-Projects/)
-### [Data Engineering Projects 💻] (https://liev2525.github.io/Data-Engineering-Projects/)
+### [Data Analysis Projects 📉](https://liev2525.github.io/Data-Analysis-Projects/)
+### [Data Engineering Projects 💻](https://liev2525.github.io/Data-Engineering-Projects/)
 
 ## My Skills 
 
