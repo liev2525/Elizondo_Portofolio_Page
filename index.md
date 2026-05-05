@@ -20,7 +20,9 @@ Enhancing regulatory compliance, data quality, and performance for evolving fina
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabethelizondo/)
 
 ## Portfolio Projects
-### [Featured Projects 💻](https://liev2525.github.io/Data-Analysis-Portfolio/)
+
+### [Data Analysis Projects 💻](https://liev2525.github.io/Data-Analysis-Projects/)
+### [Data Engineering Projects 💻] (https://liev2525.github.io/Data-Engineering-Projects/)
 
 ## My Skills 
 
