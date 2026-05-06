@@ -1,5 +1,10 @@
+# Portfolio Projects
 
-## Work Portfolio
+### [Data Analysis Projects 📉](https://liev2525.github.io/Data-Analysis-Projects/)
+### [Data Engineering Projects 💻](https://liev2525.github.io/Data-Engineering-Projects/)
+
+
+# Work Portfolio
 
 ## About Me 🚀
 
@@ -18,11 +23,6 @@ Enhancing regulatory compliance, data quality, and performance for evolving fina
 
 #### Check out my LinkedIn page!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabethelizondo/)
-
-## Portfolio Projects
-
-### [Data Analysis Projects 📉](https://liev2525.github.io/Data-Analysis-Projects/)
-### [Data Engineering Projects 💻](https://liev2525.github.io/Data-Engineering-Projects/)
 
 ## My Skills 
 
@@ -68,14 +68,14 @@ Data Engineer II | July 2022-April 2026
 - Acted as a cross-functional liaison between business, compliance, and engineering teams, managing Agile delivery (Scrum/Kanban) via JIRA and Confluence, resulting in prioritized backlogs, refined user stories, and successful delivery of regulatory data solutions.
 - Contributed to blockchain strategy initiatives by defining data models, transaction flows, and governance considerations, delivering a conceptual framework used to assess feasibility of distributed ledger integration within enterprise data architecture.
   
-#### Northside Independent School District (San Antonio, TX)
+#### Northside Independent School District (Texas, On-Site)
 ##### Instructional Technology Coach | October 2020-June 2022
 ##### Instructor | September 2015-December 2018
 - Led technology integration initiatives for adult education programs, gathering requirements and implementing digital solutions that improved instructional delivery, increased platform adoption, and standardized data-informed teaching practices.
 - Designed and delivered scalable online training programs, developing structured curricula and coaching faculty on instructional technologies, resulting in increased utilization of digital tools and measurable improvements in engagement and delivery consistency.
 - Guided the development and maintenance of public-facing website platforms for teachers and students, supporting the creation of centralized resources that improved communication, streamlined access to training materials, and enhanced overall instructional coordination.
   
-#### Education Service Center 20 (San Antonio, TX)
+#### Education Service Center 20 (Texas, On-Site)
 Grant Management Education Specialist | January 2019-October 2020
 - Provided regional leadership and technical guidance to consortium service providers, supporting program design and implementation while standardizing data collection, reporting processes, and staff development initiatives to improve program effectiveness and consistency across sites.
 - Ensured compliance with state and federal data regulations by implementing data validation and reporting practices, delivering performance dashboards and analytical insights that identified gaps, informed stakeholder decision-making, and enabled ongoing program monitoring and improvement.
