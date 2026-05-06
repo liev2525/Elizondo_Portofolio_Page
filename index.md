@@ -4,9 +4,7 @@
 ### [Data Engineering Projects 💻](https://liev2525.github.io/Data-Engineering-Projects/)
 
 
-# Work Portfolio
-
-## About Me 🚀
+# About Me 🚀
 
 Data Engineer operating in a Business Systems Analyst capacity within enterprise banking and regulatory environments. Specialized in source-to-target mapping, data lineage, and end-to-end data flow validation across complex systems. Experienced in requirements gathering, functional documentation, and cross-system impact analysis to support enterprise data integration.
 
