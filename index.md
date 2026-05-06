@@ -19,7 +19,7 @@ Enhancing regulatory compliance, data quality, and performance for evolving fina
 - ⚡ Fun fact: I like to garden fruits and vegetables.
 - 📫 How to reach me: linicel25@gmail.com
 
-#### Check out my LinkedIn page!
+### Check out my LinkedIn page!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabethelizondo/)
 
 ## My Skills 
